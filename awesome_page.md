@@ -1,4 +1,4 @@
-** This is bold **
+** This is so bold **
 * This is italic *
 ``` //This is a code comment ```
 [google.com](www.google.com)
